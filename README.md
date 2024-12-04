@@ -9,10 +9,14 @@ The objective of the OWASP Juice Shop lab is to provide hands-on experience in i
 - Learning to identify insecure coding patterns that lead to vulnerabilities.
 - Assessing weak authentication mechanisms and testing session management flaws.
 - Dynamic Application Security Testing (DAST)
-- 
+  
 
   # steps
+Fig1: The OWASP juice Shop website
+![Screenshot 2024-11-28 at 08-58-31 OWASP Juice Shop](https://github.com/user-attachments/assets/97650d74-0b96-4d80-b937-56d73db69968)
 
+Fig2: The screenshot below shows sensitive Data exposure in the product review which correspond to the OWASP top 10 Cryptographic failures.
+![Screenshot 2024-11-28 at 09-02-20 OWASP Juice Shop](https://github.com/user-attachments/assets/990f6c66-0995-44d8-b13a-3d844c31e4f9)
 
   # Recommendations
 
