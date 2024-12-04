@@ -33,5 +33,8 @@ Fig6: I was able to login to the into the admin dashboard and access the data be
 
 
   # Recommendations
-
-  
+Use the recommendations to secure the website
+- Sanitize Inputs: Use parameterized queries or prepared statements to prevent injection attacks.
+- Use Input validation: Validate user inputs against strict patterns (e.g., regex) to filter out malicious data.
+- Strong Password Policies: Enforce strong passwords using complexity, length, and uniqueness rules.
+- Rate Limiting: Implement rate limiting to prevent brute force attacks.
