@@ -18,6 +18,10 @@ Fig1: The OWASP juice Shop website
 Fig2: The screenshot below shows sensitive Data exposure in the product review which correspond to the OWASP top 10 Cryptographic failures.
 ![Screenshot 2024-11-28 at 09-02-20 OWASP Juice Shop](https://github.com/user-attachments/assets/990f6c66-0995-44d8-b13a-3d844c31e4f9)
 
+Fig3: Testing the login form (authentication) mechanism. A random login iformation is provided forwarded to Burp Suite.
+![Screenshot 2024-11-28 at 09-22-05 OWASP Juice Shop](https://github.com/user-attachments/assets/857e6f2d-1a02-4663-a17b-acaa3349e7db)
+
+
   # Recommendations
 
   
