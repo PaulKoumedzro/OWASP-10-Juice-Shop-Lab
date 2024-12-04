@@ -21,6 +21,16 @@ Fig2: The screenshot below shows sensitive Data exposure in the product review w
 Fig3: Testing the login form (authentication) mechanism. A random login iformation is provided forwarded to Burp Suite.
 ![Screenshot 2024-11-28 at 09-22-05 OWASP Juice Shop](https://github.com/user-attachments/assets/857e6f2d-1a02-4663-a17b-acaa3349e7db)
 
+Fig4: Burp Suite is used to intercept the credentials
+![2](https://github.com/user-attachments/assets/1220f549-ffba-4ed3-904f-f34e0f1764c3)
+
+Fig5: Burp Suite will modify the captured data and forward back to the server to 
+![3](https://github.com/user-attachments/assets/68866087-73f6-40de-8ed5-3cf0d438854a)
+
+Fig6: I was able to login to the into the admin dashboard and access the data because improper input validation and broken authentication mechanism.
+![4](https://github.com/user-attachments/assets/575b366d-21bb-42cf-b515-8c0651cf5886)
+
+
 
   # Recommendations
 
