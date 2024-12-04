@@ -8,7 +8,8 @@ The objective of the OWASP Juice Shop lab is to provide hands-on experience in i
 # Skill Learned
 - Learning to identify insecure coding patterns that lead to vulnerabilities.
 - Assessing weak authentication mechanisms and testing session management flaws.
-
+- Dynamic Application Security Testing (DAST)
+- 
 
   # steps
 
